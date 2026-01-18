@@ -10,11 +10,5 @@ Visual Studio Community
 Algorithms & Problem Solving ,Data Structures, Clean Code , Divide and Conquer
 
 ---
-### 📬 Contact
-- 📧 Email: muhammedhacci2@gmail.com
-
-- 🐱 GitHub: **[@Alhajjy](https://github.com/Alhajjy)**
-
-- ➤ Telegram: **[@AGuyFromLevant](https://t.me/AGuyFromLevant)**
 
 🔥 Keep Coding, Keep Solving!
